@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite-todo-api",
+      "title": "FastAPI + SQLite To-Do API",
+      "description": "Build a REST API with FastAPI and persist tasks using SQLite.",
+      "path": "assignments/fastapi-sqlite-todo-api",
+      "dueDate": "2026-07-08",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
